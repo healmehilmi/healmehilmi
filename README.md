@@ -47,9 +47,4 @@
 ---
 
 
-[website]: 
-[twitter]: https://twitter.com/mustafanaz35
-[youtube]: https://www.youtube.com/channel/UCuR7eWD6vQJJlGkqV7D2xUw
-[instagram]: https://www.instagram.com/healmehilmi/
-[linkedin]: https://www.linkedin.com/in/hilmi-naz-8b4517175/
-# readme_cover
+
