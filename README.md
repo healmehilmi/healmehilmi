@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hilminaz" width="22px" src="/static/media/ben.2205b60d.png" />][website]
+[<img align="left" alt="hilminaz" width="22px" src="https://nazhilmi.herokuapp.com/static/media/H.Naz.6e0aa4e5.png" />][website]
 [<img align="left" alt="hilminaz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="hilminaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hilminaz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
