@@ -1,8 +1,7 @@
 ### Hi there, I'm Hilmi  👋
 
 ![Website]<img align="left" alt="hilminaz" width="22px" src="https://nazhilmi.herokuapp.com/static/media/H.Naz.6e0aa4e5.png" />
-![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mustafanaz35)
-
+![twitter](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]
 ## I'm a Ui/Ux designer,Junior Reactjs developer, AR content creator!!
 
 - 🔭 I just launched my Portpolio website with power of ReactJS: [website]!
