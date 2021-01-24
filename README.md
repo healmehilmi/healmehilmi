@@ -2,7 +2,7 @@
 
 
 ## I'm a Ui/Ux designer,Junior Reactjs developer, AR content creator!!
-
+- ⚡ An other ReackJS project.Take a look my new Covid-19 Tracker Webapp: [Covid-19 Tracker]!
 - 🔭 I just launched my Portpolio website with power of ReactJS: [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m trying to make my ReactJs skills better and better 
@@ -45,7 +45,7 @@
 
 
 
-
+[Covid-19 Tracker]: http://the-covid-19-tracker.herokuapp.com
 [website]: https://nazhilmi.herokuapp.com
 [twitter]: https://twitter.com/mustafanaz35
 [youtube]: https://www.youtube.com/channel/UCuR7eWD6vQJJlGkqV7D2xUw
